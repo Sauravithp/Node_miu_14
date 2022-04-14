@@ -1,0 +1,23 @@
+{
+  "name": "lab14",
+  "version": "1.0.0",
+  "description": "promise and asyn ",
+  "main": "app.js",
+  "scripts": {
+    "start": "port=9999 NODE_ENV=development nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sauravithp/lab14.git"
+  },
+  "author": "sauravi thapa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sauravithp/lab14/issues"
+  },
+  "homepage": "https://github.com/Sauravithp/lab14#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3"
+  }
+}
